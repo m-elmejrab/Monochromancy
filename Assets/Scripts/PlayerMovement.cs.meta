@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 5165205caf5dc794293f109c3c6a4bf6
+timeCreated: 1531861653
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rb: {instanceID: 0}
+  - healthText: {instanceID: 0}
+  - mainGameText: {instanceID: 0}
+  - levelImage: {instanceID: 0}
+  - bulletPrefab: {fileID: 1714377551893254, guid: 11129ff7b8b65fb4f9db6c81d9652f14,
+      type: 2}
+  - bulletSpawn: {fileID: 4804988658774124, guid: 97fe9c3ed7e069445b53e5c10a2dc858,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

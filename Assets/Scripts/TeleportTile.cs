@@ -21,7 +21,7 @@ public class TeleportTile : MonoBehaviour {
 
     void OnCollisionEnter(Collision colInfo)
     {
-        if(colInfo.transform.tag == "Player")
-        player.transform.position = targetPosition.position+ new Vector3(0,1,0);
+        if(colInfo.transform.tag == "Player" && targetPosition != null)
+			player.transform.position = targetPosition.position+ new Vector3(0,1,0);
     }
 }
